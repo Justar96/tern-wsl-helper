@@ -1,0 +1,7 @@
+schema = 1
+id = "wsl-helper"
+name = "WSL Helper"
+version = "0.2.0"
+description = "Choose Ubuntu WSL or Windows PowerShell for new local tabs, with Omarchy and connection diagnostics."
+host = "host.luau"
+window = "window.luau"
